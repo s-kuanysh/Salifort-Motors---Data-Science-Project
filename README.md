@@ -77,8 +77,3 @@ The dataset consists of 14,999 rows and 10 columns, containing the following var
 - **Job Satisfaction**: Employees with low satisfaction levels are more likely to leave, indicating the need for initiatives to improve job satisfaction.
 - **Work-Life Balance**: High average monthly working hours are associated with higher turnover, suggesting the importance of promoting work-life balance.
 - **Career Advancement**: Lack of promotion opportunities is linked to higher turnover, emphasizing the need for clear career progression paths.
-
-## How to Use
-1. **Clone the Repository**:
-   ```bash
-   git clone [repository_url]
